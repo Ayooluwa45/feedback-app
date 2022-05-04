@@ -91,7 +91,7 @@ export const FeedbackProvider = ({ children }) => {
       }}
     >
       {children}
-    </FeedbackContext.Provider>
+      </FeedbackContext.Provider>
   )
 }
 
